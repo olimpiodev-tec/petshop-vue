@@ -12,7 +12,7 @@ import Produtos from './Produtos.vue';
   
     <Filtros />
 
-    <Produtos />
+    <router-view />
 </template>
 
 <style scoped>
